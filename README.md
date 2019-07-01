@@ -17,4 +17,4 @@ The control exposes a number of properties which allow you to customise the UI a
 
 I have provided a simple iOS project to demonstrate the picker in use. Use the "Smaller" and "Bigger" buttons to illustrate scaling.
 
-The control is also simple to use with Xamarin.Forms. You will need to create a custom renderer and ensure that your layout defines screen space for the control. I have used the ever popular Rg.Plugins.Popup to display this picker with Forms. I will try and find some time to publish a Forms binder for both iOS and Android.
+The control is also simple to use with Xamarin.Forms. You will need to create a custom renderer and ensure that your layout defines screen space for the control. I have used the ever popular [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup) to display this picker with Forms. I will try and find some time to publish a Forms binder for both iOS and Android.
