@@ -1,6 +1,6 @@
 # iOS DateTimePicker in Xamarin
 ## An alternative datetime picker for iOS tablets in C#
-The classic iOS datetime picker is great for phones but IMHO looks a bit clunky on iPads expecially when in landscape orientation. In particular, when you are developing a cross platform app and want the look and feel to be consistent across devices then this control offers a UI which will be loosly similar to other platforms.
+The classic iOS datetime picker is great for phones but IMHO looks a bit clunky on iPads especially when in landscape orientation. In particular, when you are developing a cross platform app and want the look and feel to be consistent across devices then this control offers a UI which will be loosely similar to other platforms.
 
 Here is an alternative which uses a more common way to enter a date and time on iPads.
 
